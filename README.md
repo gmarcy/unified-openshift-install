@@ -38,3 +38,6 @@ https://www.openshift.com/blog/deploying-a-upi-environment-for-openshift-4-1-on-
 https://github.com/NissesSenap/argocd-ocp
 
 https://github.com/openshift/pipelines-tutorial
+
+https://k3s.io/
+
