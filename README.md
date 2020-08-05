@@ -11,6 +11,8 @@ https://github.com/openshift/installer
 
 https://github.com/code-ready/snc
 
+https://github.com/code-ready/crc
+
 https://github.com/disposab1e/okd-lab
 
 https://github.com/cgruver/okd4-upi-lab-setup
