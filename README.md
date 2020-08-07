@@ -3,6 +3,8 @@ document existing install guides/mechanisms an look for opportunities to converg
 
 # links
 
+https://www.anstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html
+
 https://github.com/RedHatOfficial/ocp4-helpernode
 
 https://docs.openshift.com/container-platform/4.5/welcome/index.html#cluster-installer-activities
