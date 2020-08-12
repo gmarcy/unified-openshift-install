@@ -45,3 +45,8 @@ https://github.com/openshift/pipelines-tutorial
 
 https://k3s.io/
 
+https://github.com/openshift-metal3/dev-scripts#baremetal
+
+https://github.com/metal3-io/metal3-dev-env/blob/master/lib/common.sh#L28..L35
+
+https://github.com/openshift-metal3/facet
