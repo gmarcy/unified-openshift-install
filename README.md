@@ -3,6 +3,8 @@ document existing install guides/mechanisms an look for opportunities to converg
 
 # links
 
+https://medium.com/@gustavonalle/really-launching-okd-4-0-0-with-docker-f4605a58e9d5
+
 https://www.anstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html
 
 https://github.com/RedHatOfficial/ocp4-helpernode
